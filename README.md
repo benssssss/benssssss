@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Jefferson Augusto (a.k.a Bens)
 
 -  :computer: Estudante de Programação, em busca da primeira vaga como Desenvolvedor Front-End Junior
--  :book: Estudando JavaScript, SEO, Clean Code and Responsivity
+-  :book: Estudando JavaScript, SEO e UI
 -  :musical_keyboard: Fun fact: Beatmaker Aposentado e Steam High Level
 
 <br>
